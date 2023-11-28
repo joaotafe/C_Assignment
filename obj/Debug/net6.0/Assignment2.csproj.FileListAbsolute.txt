@@ -1,0 +1,12 @@
+C:\C#\Assignment2\bin\Debug\net6.0\Assignment2.deps.json
+C:\C#\Assignment2\bin\Debug\net6.0\Assignment2.dll
+C:\C#\Assignment2\bin\Debug\net6.0\Assignment2.pdb
+C:\C#\Assignment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+C:\C#\Assignment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\C#\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\C#\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\C#\Assignment2\obj\Debug\net6.0\Assignment2.dll
+C:\C#\Assignment2\obj\Debug\net6.0\refint\Assignment2.dll
+C:\C#\Assignment2\obj\Debug\net6.0\Assignment2.pdb
+C:\C#\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll
